@@ -10,7 +10,8 @@ Dropdown selection for From and To currencies.
 
 Auto-populates country flags based on selected currency.
 
-Fetches real-time exchange rates using Currency API.
+Fetches real-time exchange rates using [Currency API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json)
+.
 
 Displays the converted currency amount.
 
